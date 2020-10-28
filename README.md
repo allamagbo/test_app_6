@@ -1,3 +1,3 @@
 # README
 
-Complete Ruby on Rails Developer
+First Test Repo on Complete Ruby on Rails Developer by Kevin Allamagbo
